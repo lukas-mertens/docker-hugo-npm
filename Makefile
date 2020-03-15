@@ -1,4 +1,4 @@
-OWNER ?= bpack
+OWNER ?= devsaur
 REPO ?= hugo-npm
 VERSION ?= latest
 
