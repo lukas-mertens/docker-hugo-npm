@@ -2,7 +2,7 @@ This is a fork of [bpack/docker-hugo-npm](https://github.com/bpack/docker-hugo-n
 
 Docker image derived from Alpine Linux that includes npm, Pygments and Hugo. Enables building Hugo-based static sites that may include npm as part of the workflow (scss, minification, etc). Usable with Bitbucket Pipelines and other automated deployment tools that support Docker.
 
-The latest image is available at [https://hub.docker.com/r/devsaur/hugo-npm/](https://hub.docker.com/r/bpack/hugo-npm/) or simply execute `docker pull devsaur/hugo-npm`.
+The latest image is available at [https://hub.docker.com/r/devsaur/hugo-npm/](https://hub.docker.com/r/devsaur/hugo-npm/) or simply execute `docker pull devsaur/hugo-npm`.
 
 * `make build` - Builds the docker image.
 * `make push` - Publish the image.
